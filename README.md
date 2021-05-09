@@ -6,6 +6,7 @@ This game takes into account seperate modules for player, game and board-printin
 The computer also has a basic AI fuction to prioritize Center, Corners then Middle of the Rows
 
 To Start:
+
     git clone https://github.com/Barrow1990/Tic_Tac_Toe-PCAP.git
 
     cd Tic_Tac_Toe-PCAP
